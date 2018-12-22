@@ -1,0 +1,30 @@
+[global_config]
+  title_font = PowerlineSymbols Medium 9
+  title_use_system_font = False
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = fb58a51d-14ae-4793-bc26-41b9cd5be204
+      last_active_window = True
+      maximised = False
+      order = 0
+      parent = ""
+      position = 26:23
+      size = 1044, 874
+      title = raktanaka@4670klinux: ~
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = default
+      type = Terminal
+      uuid = fb58a51d-14ae-4793-bc26-41b9cd5be204
+[plugins]
+[profiles]
+  [[default]]
+    cursor_color = "#aaaaaa"
+    font = Hack Nerd Font Mono 10
+    foreground_color = "#ffffff"
+    use_system_font = False
