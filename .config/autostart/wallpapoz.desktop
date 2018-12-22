@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Wallpapoz
+GenericName=wallpapoz
+Comment=Automatic rotation of wallpapers
+Exec=daemon_wallpapoz &
+Terminal=false
+Type=Application
+Icon=wallpapoz
+Categories=System;
+StartupNotify=false
+Name[en_US]=wallpapoz
