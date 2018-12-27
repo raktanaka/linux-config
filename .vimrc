@@ -524,7 +524,7 @@ let g:ycm_confirm_extra_conf = 0
 let g:ycm_global_ycm_extra_conf = '/home/raktanaka/.ycm_extra_conf.py'
 
 " NERDTree
-autocmd VimEnter * NERDTree /home/raktanaka/
+autocmd VimEnter * NERDTree ~/
 " let NERDTreeShowBookmarks=1
 
 " Session Manager

@@ -1,5 +1,5 @@
 [global_config]
-  title_font = PowerlineSymbols Medium 9
+  title_font = PowerlineSymbols Medium 8
   title_use_system_font = False
 [keybindings]
 [layouts]
