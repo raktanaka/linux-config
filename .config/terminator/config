@@ -1,5 +1,5 @@
 [global_config]
-  title_font = PowerlineSymbols Medium 8
+  title_font = Hack Nerd Font Mono 9
   title_use_system_font = False
 [keybindings]
 [layouts]
@@ -25,6 +25,6 @@
 [profiles]
   [[default]]
     cursor_color = "#aaaaaa"
-    font = Hack Nerd Font Mono 10
+    font = Hack Nerd Font Mono 9
     foreground_color = "#ffffff"
     use_system_font = False
