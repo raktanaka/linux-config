@@ -2,6 +2,9 @@
   title_font = Hack Nerd Font Mono 9
   title_use_system_font = False
 [keybindings]
+  close_term = <Primary><Shift>w
+  new_tab = <Primary>t
+  next_tab = <Primary>Tab
 [layouts]
   [[default]]
     [[[child0]]]
