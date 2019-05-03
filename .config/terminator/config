@@ -27,4 +27,5 @@
     cursor_color = "#aaaaaa"
     font = Hack Nerd Font Mono 9
     foreground_color = "#ffffff"
+    login_shell = True
     use_system_font = False
