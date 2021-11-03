@@ -73,7 +73,6 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 plugins=(
   dnf
   pyenv
-  rbenv
   git
   docker
   docker-compose
@@ -129,10 +128,11 @@ source $ZSH/oh-my-zsh.sh
 #POWERLEVEL9K_CONTEXT_DEFAULT_FOREGROUND='white'
 
 # pyenv takes care of it
+# pyenv plugin not working/misconfigured?
 #export PATH="$HOME/.rbenv/bin:$PATH"
 #export PATH="$HOME/.pyenv/bin:$PATH"
-#eval "$(pyenv init -)"
-#eval "$(pyenv virtualenv-init -)"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
 #eval "$(rbenv init -)"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
